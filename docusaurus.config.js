@@ -97,7 +97,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/Mr-LeeB/documentation',
+            href: 'https://github.com/Mr-LeeB/',
             position: 'right',
             className: 'header-github-link'
           },
